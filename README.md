@@ -1,6 +1,6 @@
 # Surex Bash Options
 
-Common .bashrc improvements for Surex developers
+Common .bashrc improvements for developers
 
 ### Prerequisites
 
@@ -16,13 +16,9 @@ If you have any custom changes you want to make ($ vi .bash_custom)
 
 After making any custom changes rerun update_bash or just update your source
 
-## Authors
+## Author
 
 * **Jaron Richards** - *Initial work*
-
-## Contributors
-
-* **Mark Bennett**
 
 ## License
 
