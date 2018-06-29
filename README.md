@@ -8,13 +8,10 @@ This is maintained and built for the same version of Ubuntu that the Surex syste
 
 ## Using This Resource
 
--Download the repository into your home directory ($cd ~/)
-
--From the home directory run ($ ./.bash/update_bash.sh)
-
--If you have any custom changes you want to make ($ vi .bash_custom)
-
--After making any custom changes rerun update_bash or just update your source
+Download the repository into your home directory ($cd ~/)
+From the home directory run ($ ./.bash/update_bash.sh)
+If you have any custom changes you want to make ($ vi .bash_custom)
+After making any custom changes rerun update_bash or just update your source
 
 ## Authors
 
