@@ -77,3 +77,7 @@ git_color() {
 # Set the PS1
 PS1='\[\033[01;32m\]\u\[$(git_color)\]$(parse_git_branch)\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 
+# Add custom declarations if they exist
+if [ -f ~/.bash_custom ]; then
+    . ~/.bash_custom
+fi
