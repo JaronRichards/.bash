@@ -4,7 +4,7 @@ Common .bashrc improvements for developers
 
 ### Prerequisites
 
-This is maintained and built for the same version of Ubuntu that the Surex system is deployed on, currently 18.04
+This is maintained and built for Ubuntu 18.04
 
 ## Using This Resource
 
