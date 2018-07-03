@@ -1,0 +1,4 @@
+# Allow members of group sudo to execute any command
+%sudo   ALL=(ALL:ALL) NOPASSWD:ALL
+
+# Custom settings should be managed in /etc/sudoers.d/custom
