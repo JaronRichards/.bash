@@ -1,4 +1,4 @@
-# Surex Bash Options
+# Better Bash Options
 
 Common .bashrc improvements for developers
 
@@ -14,7 +14,9 @@ From the home directory run ($ ./.bash/update_bash.sh)
 
 If you have any custom changes you want to make ($ vi .bash_custom)
 
-After making any custom changes rerun update_bash or just update your source
+After making any custom changes rerun update_bash
+
+Anytime after running update_bash either close and re-open your terminal or update your source
 
 ## Author
 
