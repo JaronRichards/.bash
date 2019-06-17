@@ -2,6 +2,8 @@
 
 # History with grep built in
 alias hsg='history |grep'
+alias cr='credstash -r ca-central-1'
+
 # To be used in /backend for easy access symfony commands
 alias bnc='./bin/console'
 
