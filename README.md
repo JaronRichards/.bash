@@ -10,9 +10,9 @@ This is maintained and built for Ubuntu 18.04
 
 Download the repository into your home directory ($cd ~/)
 
-From the home directory run ($ ./.bash/update_bash.sh)
+From the ~/.bash directory run ($ ./update_bash.sh)
 
-If you have any custom changes you want to make ($ vi .bash_custom)
+If you have any custom changes you want to make ($ nano .bash_custom)
 
 After making any custom changes rerun update_bash
 
